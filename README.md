@@ -1,4 +1,4 @@
-### Ola meu nome é jeferson Delfim
+### Ola meu nome é jeferson Delfim.
 
 - 🔭 somente estudo
 - 🌱 Estudo Javascript com focó em back-end
